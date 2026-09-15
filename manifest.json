@@ -1,0 +1,57 @@
+{
+    "name": "DJ WILMER",
+    "short_name": "DJ WILMER",
+    "description": "EN VIVO  DJ WILMER. Transmite desde LUYA , AMAZONAS,CAMPORREDONDO, Peru. Musica, mensajes y programas cristianos en vivo.",
+    "id": "/",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "display_override": ["standalone", "fullscreen", "minimal-ui"],
+    "orientation": "any",
+    "background_color": "#0a1128",
+    "theme_color": "#0d47a1",
+    "lang": "es",
+    "dir": "ltr",
+    "categories": ["music", "entertainment", "lifestyle"],
+    "icons": [
+        { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+        { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+        { "src": "icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+        { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+        { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+    ],
+    "shortcuts": [
+        {
+            "name": "Escuchar en Vivo",
+            "short_name": "En Vivo",
+            "description": "Reproducir la transmision en vivo",
+            "url": "/#en-vivo",
+            "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+        },
+        {
+            "name": "Programacion",
+            "short_name": "Programas",
+            "description": "Ver la programacion semanal",
+            "url": "/#programacion",
+            "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+        },
+        {
+            "name": "Historial",
+            "short_name": "Historial",
+            "description": "Ver las ultimas canciones",
+            "url": "/#historial",
+            "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot-mobile.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Pantalla principal de DJ WILMER"
+        }
+    ],
+    "related_applications": [],
+    "prefer_related_applications": false
+}
