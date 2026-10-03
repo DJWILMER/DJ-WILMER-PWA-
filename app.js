@@ -17,8 +17,8 @@ const CONFIG = {
     groupImage: 'https://i.ibb.co/1f51gYvD/Chat-GPT-Image-20-jul-2026-14-12-57.png',
     wallpaper: 'https://i.ibb.co/6RcrxmX4/Wallpaper.jpg',
     cumbiaLogo: 'https://i.ibb.co/Zpsvkz36/cumbia.png',
-    streamUrl: 'https://icecast.crispro941.cl/8006/stream',
-    apiUrl: 'https://icecast.crispro941.cl/cp/get_info.php?p=8006',
+    streamUrl: 'https://stream.zeno.fm/zzrxpmz2mv8uv',
+    apiUrl: 'https://api.zeno.fm/mounts/metadata/subscribe/zzrxpmz2mv8uv',
     tvUrl: 'https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8',
     social: {
         whatsapp: 'https://wa.link/op92a8',
